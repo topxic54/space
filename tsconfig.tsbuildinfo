@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/CircularMaze.tsx","./src/utils/mazeData.ts","./src/utils/mazeLogic.ts","./lib/llm.ts","./server/api.ts","./server/db.ts","./vite.config.ts"],"version":"5.9.3"}
